@@ -38,6 +38,7 @@
 - [Sonar](http://sonar-tool.com/) - Free Amazon keyword research tool from Sellics.
 - [Splitly](https://splitly.com/) - Algorithmic split testing, automated pricing optimization, keyword rank tracking.
 - [TradeGecko](https://www.tradegecko.com/) - Cloud based inventory and order management software for modern online businesses.
+- [Thompson and Holt](https://www.thompsonandholt.com/) - Monitor and Protect your Amazon seller account from any potential account suspensions.
 - [WordTree](https://www.wordtree.io/) - Keyword tools to grow your search traffic, research your competitors, and monitor your niche.
 - [xSellco](https://www.xsellco.com/) - Centralize customer queries, target positive feedback by requesting reviews from happy customers, automatically reprice.
 
